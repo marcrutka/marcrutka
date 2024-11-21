@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ww.linkedin.com/in/marceli-rutka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ww.linkedin.com/in/marceli-rutka" height="30" width="40" /></a>
 </p>
-<div style="background-color: white; padding: 20px; border-radius: 10px;">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
