@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marceli Rutka, welcome in my world!</h1>
 <h3 align="center">A passionate data enthusiast constantly exploring the fascinating world of AI!</h3>
 
-- 💻 I specialize in Python (Spark, Kafka, Pandas, Scikit-learn, PyTorch) and have solid experience with SQL and some PL/SQL.
+- 💻 I specialize in Python (Spark, Kafka, Pandas, Scikit-learn, PyTorch) and have solid experience Oracle Apex.
   
 - 📊 I enjoy crafting insightful data visualizations and preparing datasets using R tools like dplyr, shiny, plotly, and ggplot2.
   
