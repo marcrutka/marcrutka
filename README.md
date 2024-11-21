@@ -6,9 +6,7 @@
 - 📊 I enjoy crafting insightful data visualizations and preparing datasets using R tools like dplyr, shiny, plotly, and ggplot2.
   
 - 🐳 Learning and growing every day with Docker and Git as part of my toolkit.
-
-- 🚀 Let's connect and build something amazing with data!
-- 
+  
 - 🌱 I’m currently learning **Tensorflow,Pennylane**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcrutka?tab=repositories](https://github.com/marcrutka?tab=repositories)
