@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marceli Rutka, welcome in my world!</h1>
 <h3 align="center">A passionate data enthusiast constantly exploring the fascinating world of AI!</h3>
 
-- 💻 I specialize in Python (Spark, Kafka, Pandas, Scikit-learn, PyTorch) and have solid experience Oracle Apex.
+- 💻 I specialize in Python (Pandas, Scikit-learn,Tensorflow,Keras,Kafka etc.) and have solid experience Oracle Apex.
   
 - 📊 I enjoy crafting insightful data visualizations and preparing datasets using R tools like dplyr, shiny, plotly, and ggplot2.
   
 - 🐳 Learning and growing every day with Docker and Git as part of my toolkit.
   
-- 🌱 I’m currently learning **Tensorflow,Pennylane**
+- 🌱 I’m currently learning **Pytorch,Pennylane**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcrutka?tab=repositories](https://github.com/marcrutka?tab=repositories)
 
