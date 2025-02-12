@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcrutka?tab=repositories](https://github.com/marcrutka?tab=repositories)
 
-- 📫 How to reach me **marcrutka0@gmail.com**
+- 📫 Reach me ! **marcrutka0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
